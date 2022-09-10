@@ -6,6 +6,6 @@ The Sign Language Translator For Public Services (SLTFPS for short), is used, in
 emergency, as an interpreter for sign language: the person requiring assistance is placed in front of a 
 camera connected to a computer with the translator program which displays, in text, the translation for 
 the signs used by said person. 
-This webapp was developed based on Nicolas Renotte work using concepts such as human action recognition along with resources like 
+This project was developed using concepts such as human action recognition along with resources like 
 mediapipe and Tensorflow to train a LSTM model in order to recognise a specific set of signs related to the 
 vocabulary of emergencies in a medical context. 
